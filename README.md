@@ -1,2 +1,4 @@
 # mirepodeprueba
-depositorio de puebra 
+Depositorio de prueba 
+yo soy xxx
+lo sor 
